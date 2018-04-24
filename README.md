@@ -1,5 +1,5 @@
 # hello-world
-My first repository
+
 
 This sis a 10 minute introduction from https://guides.github.com/activities/hello-world/.
 
